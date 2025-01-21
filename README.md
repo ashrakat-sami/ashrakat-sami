@@ -12,11 +12,11 @@
 </p> 
 
 
+## 🔗 Links
 
-### Connect with Me :
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashrakat-sami/)
 
-<a href="https://www.linkedin.com/in/ashrakat-sami/" target="_blank"><img src="https://img.shields.io/badge/-Ashrakat%20Sami-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<a href="mailto:ashrakat002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ashrakat%20Sami-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/-Gmail-0A66C2?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ashrakat002@gmail.com)
 
 
 
